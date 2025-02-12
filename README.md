@@ -31,7 +31,8 @@
 
 
 ## ERD
-![rush-logistic-system-2024](https://github.com/user-attachments/assets/37c36d73-cb23-49e8-bf84-ad1a3148ad96)
+![image](https://github.com/user-attachments/assets/15fd020d-2fe5-4900-ac06-09b1f48653e4)
+
 <br>
 
 ## 인프라 아키텍처
