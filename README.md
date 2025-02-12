@@ -35,7 +35,8 @@
 <br>
 
 ## 인프라 아키텍처
-![rush_(3)](attachment:29721d45-0238-4544-9a95-9161ba397737:image.png)
+![image](https://github.com/user-attachments/assets/bb46aa22-5d31-4801-a662-e0ffe70e81e4)
+
 
 ### 📃 Order
 - 주문의 생성, 조회, 수정, 삭제 기능을 통해 주문 처리 및 물류 흐름 관리를 수행합니다.
